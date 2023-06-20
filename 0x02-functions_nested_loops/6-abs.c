@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _abc - Computes the absolute value of an integer
+ *@c: The number to be computed
+ * Return: Absolute value of number or zero
  */
 
 int _abc(int c)
