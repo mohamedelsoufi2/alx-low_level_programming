@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * _abc - Computes the absolute value of an integer
+ * _abs - Computes the absolute value of an integer
  *@c: The number to be computed
- * Return: Absolute value of number or zero
+ * Return: Absolute value of number or zeri
  */
 
-int _abc(int c)
+int _abs(int c)
 {
 	if (c < 0)
 	{
