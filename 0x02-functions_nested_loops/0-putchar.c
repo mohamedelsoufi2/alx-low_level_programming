@@ -1,13 +1,20 @@
-#include <unist.h>
+#include <main.h>
 
 /**
- * _putchar - writes the character c to stdout
- * @c: The charcter to print
- * Return: On success 1
- * On error, -1 is returned, and errno is set appropriately.
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
  */
 
-int _putchar(cgar c)
+int main(void)
 {
-	return (write(1,&c,1));
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	return (0);
 }
