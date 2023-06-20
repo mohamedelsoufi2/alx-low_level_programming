@@ -2,9 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * add: Entry point
+ * Return: number
  */
 
 int add(int n1, int n2)
