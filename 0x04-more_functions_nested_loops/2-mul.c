@@ -2,12 +2,12 @@
 
 /**
  * mul - Multiplies two integers
- * @x: The first number to multiply
- * @y: The second number to multiply with the first number
- * Retun: The result of multiplication between x param and y param.
+ * @a: The first int
+ * @b: The second int
+ * Retun: Addition of the multiplication
  */
 
-int mul(int x, int y)
+int mul(int a, int b)
 {
-	return (x * y);
+	return (a * b);
 }
